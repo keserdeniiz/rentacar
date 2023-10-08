@@ -1,0 +1,7 @@
+
+
+3 Eskişehir İzmir 2000.0 1
+456 Ankara İstanbul 2000.0 1
+219 İstanbul Bursa 1500.0 1
+951 Bursa Ankara 800.0 1
+8533 Ankara İzmir 270000.0 1

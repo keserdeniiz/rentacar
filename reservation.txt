@@ -1,0 +1,6 @@
+
+3 deniz keser Mercedes 06-MYK-100 benzin manuel 1.grup Eskişehir İzmir 21-02-2022 23-02-2022 2000.0
+456 murat keser Mercedes 06-MYK-100 benzin manuel 1.grup Ankara İstanbul 14-02-2022 16-02-2022 2000.0
+219 öznur karahan Ford 35-MS-97 dizel otomatik denizgrup İstanbul Bursa 22-03-2023 24-03-2023 1500.0
+951 sena seyhan BMW 34-AS-1804 dizel otomatik 2.grup Bursa Ankara 17-02-2023 18-02-2023 800.0
+8533 sedef çelik Mercedes 06-MYK-100 benzin manuel 1.grup Ankara İzmir 12-02--2022 14-02-2022 270000.0
